@@ -21,6 +21,19 @@ So che sono cose banali ma le adoro
 - #:5629
 
 
+ESP
+
+
+- 👋 Hola soy @Bociojr
+- 👀 Me interesa... me interesan las ciencias, las matemáticas y la programación
+Sé que son cosas triviales pero me encantan
+- 🌱 Actualmente estoy aprendiendo... Estoy aprendiendo a codificar como un profesional
+- 💞️ Estoy tratando de colaborar con ... Estoy tratando de colaborar con mis amigos
+- 📫 Cómo contactarme...Puedes contactarme en Discord
+- Nombre: cubo78
+-#:5629
+
+
 <!---
 Bociojr/Bociojr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
