@@ -4,8 +4,6 @@ I know they are trivial things but I love them
 - 🌱 I’m currently learning ...I'm currently learning to code like a pro
 - 💞️ I’m looking to collaborate on ...I’m looking to collaborate on my friends
 - 📫 How to reach me ...You can contact me on Discord
-- Name: cubo78
--#:5629
 
 ---------------------------------------------------------------------------------
 
