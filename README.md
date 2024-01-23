@@ -13,7 +13,7 @@ Le mie competenze principali includono:
 Se vuoi contattarmi, puoi trovarmi su:
 
 * https://twitter.com/Bocio_1
-https://www.instagram.com/bocio.jr/
+* https://www.instagram.com/bocio.jr/
 
 ![Alt text](https://media.giphy.com/media/l46C9j8v16rN91024/giphy.gif)
 ---------------------------------------------------------------------------------
