@@ -5,14 +5,15 @@ Sono [nome], un [professione] con sede a [città]. Sono appassionato di [interes
 
 Le mie competenze principali includono:
 
-* [PyThon
-* PyGameZERO
+* PyThon
+* Un pò di HTML / JavaScript
 
 ## Contattami
 
 Se vuoi contattarmi, puoi trovarmi su:
 
-* [Link al profilo Twitter]
+* https://twitter.com/Bocio_1
+https://www.instagram.com/bocio.jr/
 
 ![Alt text](https://media.giphy.com/media/l46C9j8v16rN91024/giphy.gif)
 ---------------------------------------------------------------------------------
