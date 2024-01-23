@@ -14,11 +14,6 @@ Se vuoi contattarmi, puoi trovarmi su:
 
 * [Link al profilo Twitter]
 
-
-## GIF
-
-Ecco una GIF divertente:
-
 ![Alt text](https://media.giphy.com/media/l46C9j8v16rN91024/giphy.gif)
 ---------------------------------------------------------------------------------
 
