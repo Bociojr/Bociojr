@@ -1,12 +1,6 @@
 # Benvenuto nel mio account GitHub!
 
 Sono Mario. Sono appassionato di informatica e matematica, e utilizzo GitHub per condividere il mio codice, collaborare con altri sviluppatori e imparare cose nuove !
-## Le mie competenze
-
-Le mie competenze principali includono:
-
-* PyThon
-* Un pò di HTML / JavaScript
 
 ## Contattami
 
